@@ -19,6 +19,6 @@ Add-onには下記のものがあります。
 
 ## ライセンス
 Open PoTAToはMITライセンスです。
-Open PoTAToはAdd-onの著作権およびライセンスはAdd-onの開発者に帰属します。
+Open PoTAToのAdd-onのライセンスはAdd-onごとに決められています。
 
 
