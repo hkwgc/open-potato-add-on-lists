@@ -4,7 +4,7 @@
 
 ## ユーザー向け情報
 
-[Add-onのリスト](https://github.com/hkwgc/open-potato-add-on-lists/list-add-on.md)から、ダウンロードサイトにアクセスしてください。
+[Add-onのリスト](/list-add-on.md)から、ダウンロードサイトにアクセスしてください。
 
 
 
