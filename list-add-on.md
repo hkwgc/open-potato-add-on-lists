@@ -9,9 +9,7 @@ Open PoTAToのプラグインやレシピへのリンク集です。
 -->
 
 リンク集への追加をご希望の方はこのファイルを編集してプルリクエストしてください。
-
 プルリクエストの手順は[こちら](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests/github-flow)の1~4です(それ以降の手順は管理者が行います)。
-
 プルリクエストの詳細なヘルプは[こちら](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests)から確認できます。
 
 
