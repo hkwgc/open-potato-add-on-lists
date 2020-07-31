@@ -58,6 +58,10 @@ Spectratech社製fNIRS装置Spectratech OEG-17シリーズの波長データ(.da
 - **Artinis社製脳機能マッピングNIRSシステム（アーカイブティップス株式会社）** Artinis社製計測ソフト【Oxysoft】で計測したデータを.mat形式で読み込みます。ユーザーログインページからダウンロードをお願い致します。https://archivetips.com/
 
 
+- **島津製作所製fNIRS装置 LABNIRS, LIGHTNIRS, FOIRE3000, OMM3000**
+島津製作所製fNIRS装置の出力データを変換し読み込みます。プラグイン入手ご希望の方は[お問合せ先フォーム](https://www.an.shimadzu.com/a03-nirs.html?_ga=2.26296637.1629094972.1595204355-1752140033.1567648070)からご依頼いただきたくお願いいたします。
+
+
 <!-- 
 ## レシピ
 in prep
