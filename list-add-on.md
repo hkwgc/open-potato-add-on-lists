@@ -43,14 +43,9 @@ XX社製のfNIRS装置、YYY、ZZZの出力データ(.hogeファイル)を読み
 NIRx社 モバイル型fNIRS装置NIRSport2の出力データを読み込みます。プラグイン入手をご希望の方は、NIRx社日本代理店の(株)フィジオテックの[お問合せフォーム](http://www.physio-tech.co.jp/contacts.html)よりご連絡ください。
 
 
-- **Spectratech社製fNIRS装置Spectratech OEG-16シリーズ（OEG-16,OEG-SｐO2,OEG-16H)**
-Spectratech社製fNIRS装置Spectratech OEG-16シリーズの波長データ(.dat)ファイルを読み込みます。
-[日本語サイト](https://www.spectratech.co.jp/customer/csin.php) 
-[English site](https://www.spectratech.co.jp/En/customer/csinEn.php)
-
-
-- **Spectratech社製fNIRS装置Spectratech OEG-17シリーズ（OEG-17APD,OEG-17H,OEG-17ME)**
-Spectratech社製fNIRS装置Spectratech OEG-17シリーズの波長データ(.datx)ファイルを読み込みます。
+- **Spectratech社製fNIRS装置Spectratech OEGシリーズ**
+Spectratech OEG-17シリーズ(OEG-17APD,OEG-17H,OEG-17ME)の波長データ(.datx)ファイル,Spectratech
+OEG-16シリーズ(OEG-16,OEG-16H,OEG-SpO2) の波長データ(.dat)ファイルを読み込みます。
 [日本語サイト](https://www.spectratech.co.jp/customer/csin.php) 
 [English site](https://www.spectratech.co.jp/En/customer/csinEn.php)
 
