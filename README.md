@@ -1,5 +1,7 @@
 # Open PoTATo Add-on リスト
 
+[English page](README_EN.md)
+
 [Open PoTATo](https://github.com/hkwgc/open-potato)のAdd-onのリストを管理しています。
 
 ## ユーザー向け情報
