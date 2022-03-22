@@ -17,7 +17,7 @@ Open PoTAToのプラグインやレシピへのリンク集です。
 
 ## 解析プラグイン
 
-- [**空間解析ツール**](http://www.jichi.ac.jp/brainlab/tools.html#Potato)
+- [**空間解析ツール**](http://brain-lab.jp/wp/?p=2664)
 中央大学・檀先生のグループが開発した空間解析ツールです。Tools for realizing spatial registration on POTAToにダウンロードリンクがあります。
 
 
